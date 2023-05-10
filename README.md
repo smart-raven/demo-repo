@@ -1,7 +1,7 @@
 # Demo
 some description!
-
-#test
-
 watch tutorial on youtube
-new line
+
+## Local development
+
+1.Open index.html in your browser.
